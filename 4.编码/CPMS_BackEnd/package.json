@@ -1,0 +1,26 @@
+{
+  "name": "cpms",
+  "description": "Car parking management system",
+  "version": "1.0.0",
+  "main": "CPMS.js",
+  "scripts": {
+    "start": "node CPMS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2021-SE-Practice-Team8/CPMS.git"
+  },
+  "author": "ryuuyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2021-SE-Practice-Team8/CPMS/issues"
+  },
+  "homepage": "https://github.com/2021-SE-Practice-Team8/CPMS#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^6.0.3"
+  }
+}

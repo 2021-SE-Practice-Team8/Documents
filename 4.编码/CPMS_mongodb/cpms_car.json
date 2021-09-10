@@ -1,0 +1,6 @@
+{"_id":{"$oid":"61335d747b2fffd6d468b636"},"id_num":"陕A12345","name":"刘","tel":"158","apartment":"海棠","__v":0}
+{"_id":{"$oid":"61335d9a7b2fffd6d468b638"},"id_num":"晋A12345","name":"张","tel":"136","apartment":"丁香","__v":0}
+{"_id":{"$oid":"61335db17b2fffd6d468b63a"},"id_num":"粤A12345","name":"李","tel":"188","apartment":"竹园","__v":0}
+{"_id":{"$oid":"61335dd77b2fffd6d468b63c"},"id_num":"皖A12345","name":"汤","tel":"177","apartment":"G楼","__v":0}
+{"_id":{"$oid":"61335df07b2fffd6d468b63e"},"id_num":"浙A12345","name":"马","tel":"199","apartment":"A楼","__v":0}
+{"_id":{"$oid":"61335e117b2fffd6d468b640"},"id_num":"京A12345","name":"周","tel":"139","apartment":"B楼","__v":0}
